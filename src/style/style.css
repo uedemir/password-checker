@@ -1,0 +1,41 @@
+.pb4{
+    padding-bottom: 4px;
+} 
+
+.pl5{
+    padding-left: 5px;
+}
+
+.mt15{
+    margin-top:15px;
+}
+
+.mb0{
+    margin-bottom: 0px;
+}
+
+.list-group-item > i {
+    font-size: 14px;
+}
+
+.invalid {
+    color: #ec3f41;
+}
+ 
+.valid {
+    color: #3a7d34;
+}
+
+.pc-times::before {
+    content: "\f057";
+    font-family: 'Font Awesome 5 Free';
+    margin-right: 5px;
+    font-weight: 900;
+}
+  
+.pc-check::before {
+    content: "\f058";
+    font-family: 'Font Awesome 5 Free';
+    margin-right: 5px;
+    font-weight: 900;
+}
