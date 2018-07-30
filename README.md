@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://imageshack.com/a/img922/6734/FvClNB.png" alt="demo gif">
+</p>
+
 # Password Checker
 
 password-checker.js is a simple password control functions that control input's password value with regex. password-checker.js contains a few validator list which are; upper case, lower case, number, 9 characters length and one special character. Those validators control input's value with regex.
@@ -17,7 +21,9 @@ password-checker.js is a simple password control functions that control input's 
 ### How to use?
 
 * You have to include password-checker.js into your html page end;
-`<script src="./src/js/password-checker.js" type="text/javascript"></script>`
+```
+<script src="./src/js/password-checker.js" type="text/javascript"></script>
+```
 
 * Specify your validation list, password input and submit button element in html;
 ```
